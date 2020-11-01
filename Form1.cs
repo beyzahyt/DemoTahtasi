@@ -20,7 +20,7 @@ namespace Demo_Tahtası
 
         private void Form1_Load(object sender, EventArgs e)
         {
-           // demoooooo
+
                 Button[,] buttons = new Button[8,8];
                 int top=0;
                 int left=0;
